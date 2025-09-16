@@ -23,7 +23,7 @@ form-validator/
 
 ## 🖼️ Preview  
 
-![Form Validator Demo](https://via.placeholder.com/500x300.png?text=Form+Validator+Preview)
+![Form Validator Demo](https://yusuf-maxx.github.io/Basic-Form-Validator/)
 
 > 💡 Tip: Apne project ka screenshot le lo aur GitHub me `assets/` folder me daal ke upar wale link me apni image ka path use karo. Example:  
 `![Form Validator Demo](assets/form-validator.png)`
