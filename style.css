@@ -70,3 +70,7 @@ button:hover {
   font-weight: bold;
   margin-top: 15px;
 }
+.accent {
+  color: #2563eb;
+  font-weight: bold;
+}
