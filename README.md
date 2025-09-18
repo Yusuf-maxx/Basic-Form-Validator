@@ -13,9 +13,9 @@ This project shows **error messages below each input field** if something is wro
 ## 📂 Folder Structure  
 
 form-validator/
-│
-├── index.html # Main HTML file (form structure)
-├── style.css # CSS file (design & styling)
+│<br>
+├── index.html # Main HTML file (form structure)<br>
+├── style.css # CSS file (design & styling)<br>
 └── script.js # JavaScript file (validation logic)
 
 
