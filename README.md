@@ -26,7 +26,7 @@ form-validator/
 ![Form Validator Demo](https://yusuf-maxx.github.io/Basic-Form-Validator/)
 
 > 💡 Tip: Apne project ka screenshot le lo aur GitHub me `assets/` folder me daal ke upar wale link me apni image ka path use karo. Example:  
-`![Form Validator Demo](assets/form-validator.png)`
+`![Form Validator Demo](https://yusuf-maxx.github.io/Basic-Form-Validator/)`
 
 ---
 
